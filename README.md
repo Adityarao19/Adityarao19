@@ -1,45 +1,47 @@
-## Hi there 👋# 👋 Hi, I'm Aditya Rao
+Hi 👋, I'm Aditya Rao
+AI | Cybersecurity | Data Science | Web Dev
 
-🎓 I'm a B.Tech CSE (AI & ML) student, learning AI, Data Science, and Cybersecurity.
+---
 
-## 🌱 Currently Learning
-- Python
-- Pandas & Numpy
-- Data Visualization
-- Network Security
-- Web App Development
+### 👨‍💻 About Me
 
-## 🧪 My Learning Projects
+- 🎓 B.Tech in CSE (AI & ML)
+- 🔐 Exploring Cybersecurity (Red Team & Network Security)
+- 📊 Data Science | EDA | Dashboarding | NLP
+- 🧠 Building smart AI assistants, GPT-based tools & automation systems
+- 🌱 Currently learning: Reverse engineering, prompt engineering & AI product design
+- 📁 Portfolio Projects: [Live Network Monitor](https://github.com/Adityarao19/live-network-monitor), [Netflix Insights](https://github.com/Adityarao19), and more coming soon...
+- ⚡ Fun Fact: I automate everything I can 😎
 
-### 1. Live Network Monitor
-- Real-time scanning of ports & traffic
-- Built using Python, Flask, Nmap
-- [GitHub Repo](https://github.com/Adityarao19/live-network-monitor)
+---
 
-### 2. Netflix Insights Dashboard
-- EDA and graphs using Python and Tableau
-- [GitHub Repo](https://github.com/Adityarao19/netflix-dashboard)
+### 🚀 Tech Stack
 
-### 3. Drugs Data EDA
-- Analysis of medical drugs and side effects
-- [GitHub Repo](https://github.com/Adityarao19/Drugs-Effectiveness-Safety-EDA.git)
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=flat&logo=typescript)
+![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
+![Tailwind](https://img.shields.io/badge/-TailwindCSS-333?style=flat&logo=tailwind-css)
+![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
+![Flask](https://img.shields.io/badge/-Flask-333?style=flat&logo=flask)
+![Linux](https://img.shields.io/badge/-Linux-333?style=flat&logo=linux)
+![Kali](https://img.shields.io/badge/-Kali_Linux-333?style=flat&logo=kalilinux)
+![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
 
-## 📫 Connect with Me
-- [LinkedIn](https://linkedin.com/in/aditya-rao-5a882434b)
-- [GitHub](https://github.com/Adityarao19)
+---
 
+### 📈 GitHub Stats
 
-<!--
-**Adityarao19/Adityarao19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Adityarao19&show_icons=true&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityarao19&layout=compact&theme=radical" height="165" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔗 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/adityarao19)
+[![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github)](https://github.com/Adityarao19)
+
+---
