@@ -1,5 +1,5 @@
-Hi 👋, I'm Aditya Rao
-AI | Cybersecurity | Data Science | Web Dev
+<h1 align="center">Hi 👋, I'm Aditya Rao</h1>
+<h3 align="center">AI | Cybersecurity | Data Science | Web Dev</h3>
 
 ---
 
